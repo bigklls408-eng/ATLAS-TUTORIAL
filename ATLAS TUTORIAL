@@ -1,0 +1,83 @@
+## Want to learn how to play OGFN with ATLAS?
+
+Download **ATLAS Link** launcher and **ATLAS Backend** from the following GitHub links (open source and safe):
+> 1. https://github.com/cipherfps/ATLAS-Link/releases/
+> 2. https://github.com/cipherfps/ATLAS-Backend/releases/
+-# Note for Trickshotters:
+> - This backend is how you can have **MODIFIED** item properties with CurveTables and Straight Bloom (Ex. Super Shockwave/Flintknock, Straight Bullet, etc.):
+> - ATLAS Backend allows you to change the values of those items directly on the menu
+> - https://github.com/cipherfps/ATLAS-Backend
+> - Looking for a specific CurveTable that is not listed? Visit the following Github page:
+> - https://github.com/Ralzify/lawin-repo/blob/main/Curve%20Tables.md
+
+Download a **Fortnite Version** or **Build** you'd like to play on from either one of these sites (ATLAS supports v1.7.2-30.00):
+> - https://builds.fortforge.dev/builds (Clean UI/Easy to Navigate)
+> - https://github.com/Helix-Dev-Q/fortnite-builds-archive (Ctrl + F to serach for build)
+> - Download <#1503461822961811727> and extract your Fortnite build
+
+How to **LAUNCH/START** your game:
+> - Open ATLAS Link, import your build if you haven't already (Make sure the **folder** you select contains both `FortniteGame and Engine`)
+> - Start your Backend if not already started
+> - Click `Launch` and make sure to continue with  `Start game server`
+> - You should see a GUI menu start up along with the game, that is your game server
+> - To enter the game wait till the GUI says `Status: Joinable!` as that indicates your server is ready
+> - Click on your Fortnite game and press the (F8) or (~) key, you should see a terminal open
+> - Type the following command to enter your game: `open 127.0.0.1`
+
+How to use **COMMANDS** and **OBTAIN** weapons or items:
+> - Go to this pastebin that contains most commands and weapon/consumable IDs for all versions:
+> - https://pastebin.com/4pmMgegz
+> - (Ctrl + F) to search for an item
+> - Go to your Fortnite game and click (F8) or (~) key to open the terminal
+> - Paste the command and you should recieve your item!
+
+Most useful **COMMANDS**:
+> - `cheat s [type anything here]` to save a waypoint at your pawns location!
+> - `cheat w [what you typed earlier]`  to teleport to a specific waypoint!
+> - `cheat destroyall drop` to destroy all supply drops that have spawned
+> - `cheat bot [amount]` to spawn a bot! (If you want AIs that move around visit this channel: https://discord.com/channels/1469866169635962884/1469876652388515986)
+> - `cheat startaircraft` to start the bus without the GUI, sometimes works better and doesn't crash
+> - Do `cheat help` to view the rest of the command list in game
+
+
+
+
+
+
+
+## EXTENDED GUIDE...
+How to launch **MULTIPLE CLIENTS**:
+> - Go to the ATLAS Link library menu
+> - Click on the `...` button to open Launch Options
+> - Toggle on `Multi-Client Launching` and click `Save`
+> - Launch your first client, this will launch with your username
+> - Once that game finishes loading up, launch your second client
+> - Make sure to name your second client a different username
+> - Type the following command on both clients to enter your game: `open 127.0.0.1`
+-# Note for Trickshotters:
+> - Second clients are useful for the Infinite Render option included in the gameserver/backend 
+> - This feature allows your sniper bullet projectile to travel infinitely
+
+How to **PLAY** with **FRIENDS**:
+> - Download the program below to allow others to connect to your matches
+> - https://www.radmin-vpn.com/
+> - Open Radmin, navigate to the tabs at the top and click `System > Firewall Exceptions > Allow All Apps`
+> - Now you can either create a network or join your friends network
+> - Navigate to `Network` and click `Create Network` or `Join Network`
+> - Once created share your username and password to others to allow their connection
+> - Afterward, whoever is hosting, make sure to copy their randomly **generated IP**
+> -----------------------------------------
+> - **If you are using ATLAS Backend and want to have seperate skins:**
+> - Open ATLAS Link
+> - Navigate to `Backend` and switch `Local` to `Remote`
+> - Then put the host's IP in the `Host` box
+> - Afterward click `Check Backend`
+> - If it returns `Backend reachable` continue to the next step
+> -# Note: The host stays on Local
+> -----------------------------------------
+> - Launch your Fortnite and click `Start Server`
+> - Click on your Fortnite game and press the (F8) or (~) key, you should see a terminal open
+> - Type the following command to enter your game: `open [paste IP here]`
+> **Troubleshooting:**
+> - If you do not have the firewall option this means a third-party application/antivirus may be interfering with the firewall
+> - Allowing all Apps just allows a smoother or easier time connecting the player(s) and the host, although it is completely optional
